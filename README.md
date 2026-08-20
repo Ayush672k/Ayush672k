@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zane-noise.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I%27m+Ayush+!" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e1b4b,100:7c3aed&height=150&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=e2e8f0&fontAlignY=45&animation=fadeIn" alt="banner" />
 </p>
 
 <p align="center">
