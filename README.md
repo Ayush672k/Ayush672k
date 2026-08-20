@@ -65,9 +65,16 @@ Second-year IT undergraduate at NSUT (Delhi), specializing in **Geoinformatics**
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEE-1A73E8?style=flat&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <!-- Swap back when github-readme-stats recovers:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush672k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=7DD3FC&text_color=e2e8f0" height="150" />
-  <!-- Swap back to full stats when github-readme-stats recovers:
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush672k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=7DD3FC&icon_color=7c3aed&text_color=e2e8f0" height="150" />
   -->
 </p>
 
