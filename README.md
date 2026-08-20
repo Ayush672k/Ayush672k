@@ -59,8 +59,16 @@ Second-year IT undergraduate at NSUT (Delhi), specializing in **Geoinformatics**
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush672k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=7DD3FC&icon_color=7c3aed&text_color=e2e8f0" height="150" />
+  <img src="https://img.shields.io/github/stars/Ayush672k?style=tokyonight&label=Total%20Stars&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Ayush672k?style=tokyonight&label=Followers&color=06b6d4&labelColor=0d1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Ayush672k?label=Following&style=tokyonight&color=e2e8f0&labelColor=0d1117&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush672k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=7DD3FC&text_color=e2e8f0" height="150" />
+  <!-- Swap back to full stats when github-readme-stats recovers:
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush672k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=7DD3FC&icon_color=7c3aed&text_color=e2e8f0" height="150" />
+  -->
 </p>
 
 ---
@@ -70,6 +78,7 @@ Second-year IT undergraduate at NSUT (Delhi), specializing in **Geoinformatics**
 <!--
   Repo must be named exactly Ayush672k/Ayush672k to show on profile.
   Banner = decorative only (no text overlay) — matches Magrelaio style.
-  All details from profile PDF: NSUT '28, IT, Geoinformatics, AICTE, WorldQuant.
-  Add X/Twitter badge when ready.
+  Stats: github-readme-stats.vercel.app is 503 as of 2026-08-20.
+  Top langs kept (different endpoint, still works). Full stats card commented.
+  Swap back when service recovers.
 -->
