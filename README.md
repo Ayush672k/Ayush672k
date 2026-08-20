@@ -32,10 +32,10 @@ Second-year IT undergraduate at NSUT (Delhi), specializing in **Geoinformatics**
 
 > Open to collaborations in geospatial AI, agentic systems, and applied ML research.
 
-## 📊 Activity
+## 🎮 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush672k&theme=github-compact&hide_border=true&bg_color=0a0e1a&color=7DD3FC&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed" />
+  <img src="gh-space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 ## 🚀 Featured
